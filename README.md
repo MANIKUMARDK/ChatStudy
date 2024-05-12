@@ -1,4 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+## REG N0:212223230121
+## NAME:MANIKUMAR.DK
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
@@ -107,9 +109,9 @@ while True:
 
 ## Output:
 ## Client:
-![image](https://github.com/MANIKUMARDK/ChatStudy/assets/147215581/492d689a-5351-4954-8fee-7ee9575761ca)
+![Screenshot 2024-05-12 190523](https://github.com/MANIKUMARDK/ChatStudy/assets/147215581/856091b3-d99e-4a1a-8a69-af4708393887)
 ## Server:
-![image](https://github.com/MANIKUMARDK/ChatStudy/assets/147215581/2ec37eff-f2d5-48b8-967d-d9ec782ed64b)
+![Screenshot 2024-05-12 190713](https://github.com/MANIKUMARDK/ChatStudy/assets/147215581/1015074d-f55a-4559-b2e3-1a92152115fc)
 
 ## Result:
 Thus the study on Client Server Chat Applications has been performed.
